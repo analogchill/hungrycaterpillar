@@ -22,5 +22,9 @@ its a normal snake game! if you get to 200 points you will hatch a butterfly and
 To deploy this project
 
 python3 snake.py
+
+or
+
+open the zip file and run the EXE
 ```
 
